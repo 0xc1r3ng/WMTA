@@ -90,7 +90,7 @@ FakeNet alat untuk mensimulasikan jaringan sehingga service malware host remote 
 
 <b>Tampilan Dashboard</b>
 <p><a href="https://raw.githubusercontent.com/0xc1r3ng/WMTA/master/Dashboard.PNG" target="_blank"><img src="https://raw.githubusercontent.com/0xc1r3ng/WMTA/master/Dashboard.PNG" alt="Dashboard"></a></p>
-<br><br>
+<br>
 
 Catatan :<br>
 Hanya Tools Sederhana yang digunakan untuk Dasar Analisa Malware Windows
